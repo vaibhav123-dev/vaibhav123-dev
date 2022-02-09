@@ -3,8 +3,19 @@
 <p align="center">
  
 </p align="center">
-<img align="center" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320"/>
+<img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320"/>
 
+#### Talking about my personal stuff:
+
+- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
+- 👉 Leading [Flutter Islamabad][flutter_isb]
+- 💻 The tech I'm interested Flutter/ML/AR etc.
+- ✍ Technical writer at [Medium][medium]
+- 📱 First Live app on Play Store [Holy Qur'an App][quran]
+- ✨ I'm learning Flutter, Web scrapping, Automations etc.
+- 🎮 COD Modern Warfare 1 Multiplayer
+- 📄 Live [Portfolio][profile]
+- 🎨 [Dribbble][dribbble] profile
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 

@@ -11,8 +11,7 @@
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - ✍ Technical writer at [Medium][medium]
-- 📄 <a href="https://vaibhav-devv.netlify.app/"><a/>
-- 🎨 [Dribbble][dribbble] profile
+- 📄 Portfolio Lind - "https://vaibhav-devv.netlify.app/"
 <p align="center">
  
  <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 

@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" />
+<img align="center" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320"/>
 
 <p align="center">
  

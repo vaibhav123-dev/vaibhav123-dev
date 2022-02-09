@@ -7,14 +7,11 @@
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Former Google DSC Lead [COMSATS Islamabad][dsccui]
-- 👉 Leading [Flutter Islamabad][flutter_isb]
-- 💻 The tech I'm interested Flutter/ML/AR etc.
+- 🙋‍♂️ Full Stack Web Developer.
+- 👉 Interested in building amazing frontend websites.
+- 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - ✍ Technical writer at [Medium][medium]
-- 📱 First Live app on Play Store [Holy Qur'an App][quran]
-- ✨ I'm learning Flutter, Web scrapping, Automations etc.
-- 🎮 COD Modern Warfare 1 Multiplayer
-- 📄 Live [Portfolio][profile]
+- 📄 <a href="https://vaibhav-devv.netlify.app/"><a/>
 - 🎨 [Dribbble][dribbble] profile
 <p align="center">
  

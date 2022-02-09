@@ -1,6 +1,10 @@
 
 <!--  portfolio link/  -->
 <p align="center">
+  I'm a Mechanical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
+</p>   
+
+<p align="center">
  
 </p align="center">
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="500" height="320"/>
@@ -11,19 +15,9 @@
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
 - ✍ Technical writer at [Medium][medium]
-- 📄 Portfolio Lind - "https://vaibhav-devv.netlify.app/"
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
+- 📄 Portfolio Link - "https://vaibhav-devv.netlify.app/"
 
-</p>
 
-<p align="center">
-  I'm a Mechanical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
-</p>   
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 

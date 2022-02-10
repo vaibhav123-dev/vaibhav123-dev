@@ -16,29 +16,24 @@
 <br>
  <div align="center">
 <p align="center">Let's connect!</p>
-<a href="https://www.twitter.com/mhmzdev/">
+<a href="https://twitter.com/vaibhav61104399/">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/mhmzdev/">
+<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/mhmzdev/">
+<a href="https://www.linkedin.com/in/vaibhav-darvekar-9ba9a1217/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://mhamzadev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
 
-<a href="https://www.facebook.com/mhmzdev/">
+<a href="https://www.facebook.com/vaibhav.darwekar.50">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://stackoverflow.com/users/12297382/hamza">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
+
 </div>
 
 <br>

@@ -16,7 +16,7 @@
 <br>
  <div align="center">
 <p align="center">Let's connect!</p>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://twitter.com/vaibhav61104399/">

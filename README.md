@@ -11,7 +11,7 @@
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
 - 💻 The tech I'm interested HTML/CSS/Javascript/MERN stack.
-- 📄 Portfolio - "https://portfolio-woad-theta-84.vercel.app/"
+- 📄 Portfolio - "https://vaibhav-darvekar-portfolio.vercel.app/"
 
 <br>
  <div align="center">

@@ -1,12 +1,9 @@
 
 <!--  portfolio link/  -->
 ### Hey there, I'm  Vaibhav 
-<p align="center">
-  I'm a Mechanical Engineer by education🎓 from RTMNU university Nagpur 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Web 🕸️ Development.
-</p> 
 <img align="right" src="https://raw.githubusercontent.com/mhmzdev/mhmzdev/master/code.gif" width="450" height="280"/>
 
-#### Talking about my personal stuff:
+#### Talking about my profession:
 
 - 🙋‍♂️ Full Stack Web Developer.
 - 👉 Interested in building amazing frontend websites.
